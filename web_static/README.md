@@ -2,7 +2,7 @@
 <br>
 <h2>Description</h2>
 <br>
-<p>This project is part of the ALX Holberton School curriculum for the AirBnB clone. Its goal is to create a static webpage and to understand the basics of HTML and CSS.</p>
+<p>This project is part of the ALX project for the AirBnB clone. Its goal is to create a static webpage and to understand the basics of HTML and CSS.</p>
 <br>
 <h2>Table of contents</h2>
 <br>
@@ -17,4 +17,4 @@
 <br>
 <h2>Author</h2>
 <br>
-<p>Nandweza Allan</p>
+<p>Girum Tilahun</p>
